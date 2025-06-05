@@ -1,25 +1,5 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milena%20Hamerski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-hamerski/)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=milenahamerski&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=milenahamerski&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=milenahamerski&show_icons=true&theme=tokyonight" />
-</picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=milenahamerski&layout=compact&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=milenahamerski&layout=compact&theme=tokyonight"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenahamerski&layout=compact&theme=tokyonight" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenahamerski&layout=compact&theme=cobalt)
+
